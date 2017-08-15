@@ -4,6 +4,8 @@ package offer04;
  * Created by Bella on 2017/8/14.
  */
 
+import utils.TreeNode;
+
 import java.util.*;
 
 //广度优先遍历

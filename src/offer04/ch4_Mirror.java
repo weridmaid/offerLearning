@@ -1,15 +1,15 @@
 package offer04;
-
+import utils.TreeNode;
 //操作给定的二叉树，将其变换为源二叉树的镜像
 
-class TreeNode {
-    int val = 0;
-    TreeNode left = null;
-    TreeNode right = null;
-    public TreeNode(int val) {
-        this.val = val;
-    }
-}
+//class TreeNode {
+//    int val = 0;
+//    TreeNode left = null;
+//    TreeNode right = null;
+//    public TreeNode(int val) {
+//        this.val = val;
+//    }
+//}
 /**
  输入描述:
  二叉树的镜像定义：源二叉树
